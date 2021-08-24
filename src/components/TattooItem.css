@@ -1,0 +1,10 @@
+.tattoo-item img {
+    display: block;
+
+    cursor: zoom-in;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+}
